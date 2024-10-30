@@ -1,1 +1,11 @@
-Here are my text homework
+1.1
+
+a) falsch
+b) wahr
+c) falsch
+d) wahr
+
+1.2
+
+(a) echo hello world: funktioniert wie Printf("helllo world")
+

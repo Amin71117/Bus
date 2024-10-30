@@ -1,0 +1,10 @@
+Aktuelle Systemzeit: Wed Oct 30 21:52:06 CET 2024
+Skriptname: ./info.sh
+Aktuelle Shell: /bin/bash
+98 output.txt
+
+Durch den Kommand: wc -c output.txt
+============
+c) 
+5
+Durch den Kommand: ls -1 | wc -l
